@@ -1,0 +1,13 @@
+G:\Школа инженера\ДЗ1\ReflectionTask\bin\Debug\ReflectionTask.exe.config
+G:\Школа инженера\ДЗ1\ReflectionTask\bin\Debug\ReflectionTask.exe
+G:\Школа инженера\ДЗ1\ReflectionTask\bin\Debug\ReflectionTask.pdb
+G:\Школа инженера\ДЗ1\ReflectionTask\bin\Debug\ClassLibraryDictionary.dll
+G:\Школа инженера\ДЗ1\ReflectionTask\bin\Debug\ClassLibraryDictionary.pdb
+G:\Школа инженера\ДЗ1\ReflectionTask\obj\Debug\ReflectionTask.csproj.AssemblyReference.cache
+G:\Школа инженера\ДЗ1\ReflectionTask\obj\Debug\ReflectionTask.csproj.SuggestedBindingRedirects.cache
+G:\Школа инженера\ДЗ1\ReflectionTask\obj\Debug\ReflectionTask.Properties.Resources.resources
+G:\Школа инженера\ДЗ1\ReflectionTask\obj\Debug\ReflectionTask.csproj.GenerateResource.cache
+G:\Школа инженера\ДЗ1\ReflectionTask\obj\Debug\ReflectionTask.csproj.CoreCompileInputs.cache
+G:\Школа инженера\ДЗ1\ReflectionTask\obj\Debug\ReflectionTask.csproj.CopyComplete
+G:\Школа инженера\ДЗ1\ReflectionTask\obj\Debug\ReflectionTask.exe
+G:\Школа инженера\ДЗ1\ReflectionTask\obj\Debug\ReflectionTask.pdb

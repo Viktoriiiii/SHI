@@ -1,0 +1,6 @@
+G:\Школа инженера\ДЗ1\ClassLibraryDictionary\bin\Debug\ClassLibraryDictionary.dll
+G:\Школа инженера\ДЗ1\ClassLibraryDictionary\bin\Debug\ClassLibraryDictionary.pdb
+G:\Школа инженера\ДЗ1\ClassLibraryDictionary\obj\Debug\ClassLibraryDictionary.csproj.AssemblyReference.cache
+G:\Школа инженера\ДЗ1\ClassLibraryDictionary\obj\Debug\ClassLibraryDictionary.csproj.CoreCompileInputs.cache
+G:\Школа инженера\ДЗ1\ClassLibraryDictionary\obj\Debug\ClassLibraryDictionary.dll
+G:\Школа инженера\ДЗ1\ClassLibraryDictionary\obj\Debug\ClassLibraryDictionary.pdb
